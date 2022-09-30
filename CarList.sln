@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarList", "CarList\CarList.csproj", "{14418E7F-EAAF-49C5-AF6B-00DAAC57BA02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14418E7F-EAAF-49C5-AF6B-00DAAC57BA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14418E7F-EAAF-49C5-AF6B-00DAAC57BA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14418E7F-EAAF-49C5-AF6B-00DAAC57BA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14418E7F-EAAF-49C5-AF6B-00DAAC57BA02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F74E6F-9142-44D0-B9AB-C3B3F7CA6E1D}
+	EndGlobalSection
+EndGlobal
